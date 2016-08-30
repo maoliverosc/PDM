@@ -235,7 +235,7 @@ public class Ejercicios {
                 else
                     System.out.print("El numero no pertenece a la serie Fibonacci\n");
                 break;
-            
+            /*
             case 11:
                 int num, factorial = 1;
                 System.out.print("Ingrese un numero: ");
@@ -245,7 +245,7 @@ public class Ejercicios {
                     num--;
                 System.out.printf("Resultado es: %d\n", factorial);
                 break;
-                
+            */   
             default:
                 System.out.print("Invalid option... Try Again...! ");
         }
