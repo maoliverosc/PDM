@@ -9,7 +9,7 @@ package ejercicios;
  * @author Mauricio Oliveros C
  */
 public class TrianguloEquilatero {
-    private
+    private final
             double lado;
     
     public
